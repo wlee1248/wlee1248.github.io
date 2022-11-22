@@ -1,2 +1,3 @@
 # wlee-fw.github.io
-For personal website
+For personal website.
+This is the default portal.
